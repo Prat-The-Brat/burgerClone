@@ -1,0 +1,31 @@
+{
+  "files": {
+    "main.css": "/static/css/main.cb3b12d3.chunk.css",
+    "main.js": "/static/js/main.e8f1aae1.chunk.js",
+    "main.js.map": "/static/js/main.e8f1aae1.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.970f7953.js",
+    "runtime-main.js.map": "/static/js/runtime-main.970f7953.js.map",
+    "static/js/2.43e617c4.chunk.js": "/static/js/2.43e617c4.chunk.js",
+    "static/js/2.43e617c4.chunk.js.map": "/static/js/2.43e617c4.chunk.js.map",
+    "static/js/3.a73e3615.chunk.js": "/static/js/3.a73e3615.chunk.js",
+    "static/js/3.a73e3615.chunk.js.map": "/static/js/3.a73e3615.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/main.cb3b12d3.chunk.css.map": "/static/css/main.cb3b12d3.chunk.css.map",
+    "static/js/2.43e617c4.chunk.js.LICENSE.txt": "/static/js/2.43e617c4.chunk.js.LICENSE.txt",
+    "static/media/burger.45287c36.jpeg": "/static/media/burger.45287c36.jpeg",
+    "static/media/burgerlogo-removebg-preview.b7a61642.png": "/static/media/burgerlogo-removebg-preview.b7a61642.png",
+    "static/media/cheeseburger.5292adcc.jpg": "/static/media/cheeseburger.5292adcc.jpg",
+    "static/media/doubleBurger.97f2f1b0.jpg": "/static/media/doubleBurger.97f2f1b0.jpg",
+    "static/media/eat.39ab69d7.jpeg": "/static/media/eat.39ab69d7.jpeg",
+    "static/media/fam.96a4f49d.jpeg": "/static/media/fam.96a4f49d.jpeg",
+    "static/media/singleBurger.1e6ed4e0.jpg": "/static/media/singleBurger.1e6ed4e0.jpg",
+    "static/media/tripleBurger.ff67b28e.jpg": "/static/media/tripleBurger.ff67b28e.jpg",
+    "static/media/waffleburger.c9e7d682.jpg": "/static/media/waffleburger.c9e7d682.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.970f7953.js",
+    "static/js/2.43e617c4.chunk.js",
+    "static/css/main.cb3b12d3.chunk.css",
+    "static/js/main.e8f1aae1.chunk.js"
+  ]
+}
